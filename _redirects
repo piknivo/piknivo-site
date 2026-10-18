@@ -1,0 +1,5 @@
+# Cloudflare Pages redirects
+/index.html / 301
+/disclosure /affiliate-disclosure/ 301
+/privacy /privacy-policy/ 301
+/review/synthesia-vs-heygen /synthesia-vs-heygen/ 301
