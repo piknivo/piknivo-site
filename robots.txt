@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://piknivo.com/sitemap.xml
+Sitemap: https://piknivo-site.pages.dev/sitemap.xml
